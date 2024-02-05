@@ -2,5 +2,6 @@ Write a function that returns the string "something" joined with a space " " and
 
 function str(a) {
     return "something"+" "+a
-    
+
 }
+//this is a
